@@ -1,5 +1,9 @@
-# Modelling project 1:Regression Tesk-QSAR.ipynb
+# Modelling projects
 
-# Modelling project 2:Classification Task-Iris.ipynb
+## Classification Task-Iris.ipynb
 
-# Modelling project 3:Regression Tesk-curated_solubility_dataset_ipynb.ipynb
+## Regression Tesk-curated_solubility_dataset_ipynb.ipynb
+
+## Regression Tesk-QSAR.ipynb
+
+
