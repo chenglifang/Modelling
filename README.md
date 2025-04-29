@@ -1,9 +1,9 @@
 # Modelling projects
 
-## Classification Task: Iris.ipynb
+## Classification Task: Iris Modeling.ipynb
 
-## Regression Tesk: curated_solubility_dataset_ipynb.ipynb
+## Regression Tesk: Solubility Modeling.ipynb
 
-## Regression Tesk: QSAR.ipynb
+## Regression Tesk: QSAR Modeling.ipynb
 
 
